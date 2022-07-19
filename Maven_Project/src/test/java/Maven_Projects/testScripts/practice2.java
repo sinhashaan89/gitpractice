@@ -21,5 +21,8 @@ public class practice2 {
 	public void Practice30(){
 		Reporter.log("This is method of maven for practice2,Practice30",true);
 	}
+	public void Practice500(){
+		Reporter.log("This is method of maven for practice2,Practice30",true);
+	}
 
 }
