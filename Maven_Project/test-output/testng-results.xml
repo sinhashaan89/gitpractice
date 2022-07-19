@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This is method of maven for practice2,Practice10]]>
+    </line>
+    <line>
+      <![CDATA[This is method of maven for practice2,Practice20]]>
+    </line>
+    <line>
+      <![CDATA[This is method of maven for practice2,Practice30]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-18T09:24:51Z" name="Default suite" finished-at="2022-07-18T09:24:51Z" duration-ms="20">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T09:24:51Z" name="Default test" finished-at="2022-07-18T09:24:51Z" duration-ms="20">
+      <class name="Maven_Projects.testScripts.practice2">
+        <test-method signature="Practice10()[pri:0, instance:Maven_Projects.testScripts.practice2@2e48362c]" started-at="2022-07-18T14:54:51Z" name="Practice10" finished-at="2022-07-18T14:54:51Z" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is method of maven for practice2,Practice10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Practice10 -->
+        <test-method signature="Practice20()[pri:0, instance:Maven_Projects.testScripts.practice2@2e48362c]" started-at="2022-07-18T14:54:51Z" name="Practice20" finished-at="2022-07-18T14:54:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is method of maven for practice2,Practice20]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Practice20 -->
+        <test-method signature="Practice30()[pri:0, instance:Maven_Projects.testScripts.practice2@2e48362c]" started-at="2022-07-18T14:54:51Z" name="Practice30" finished-at="2022-07-18T14:54:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is method of maven for practice2,Practice30]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Practice30 -->
+      </class> <!-- Maven_Projects.testScripts.practice2 -->
+      <class name="Maven_Projects.testScripts.practice1">
+        <test-method signature="Practice1()[pri:0, instance:Maven_Projects.testScripts.practice1@12d2ce03]" started-at="2022-07-18T14:54:51Z" name="Practice1" finished-at="2022-07-18T14:54:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Practice1 -->
+        <test-method signature="Practice2()[pri:0, instance:Maven_Projects.testScripts.practice1@12d2ce03]" started-at="2022-07-18T14:54:51Z" name="Practice2" finished-at="2022-07-18T14:54:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Practice2 -->
+        <test-method signature="Practice3()[pri:0, instance:Maven_Projects.testScripts.practice1@12d2ce03]" started-at="2022-07-18T14:54:51Z" name="Practice3" finished-at="2022-07-18T14:54:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Practice3 -->
+      </class> <!-- Maven_Projects.testScripts.practice1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
