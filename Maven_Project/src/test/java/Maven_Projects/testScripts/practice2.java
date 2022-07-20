@@ -8,7 +8,8 @@ public class practice2 {
 	public void Practice1000(){
 		String url = System.getProperty("URL");
 		String browser = System.getProperty("BROWSER");
-		System.out.println("This is my browser"+url);
+		System.out.println("This is my url"+url);
+		System.out.println("This is my browser"+browser);
 		Reporter.log("This is method of maven for practice2,Practice10",true);
 	}
 	@Test
