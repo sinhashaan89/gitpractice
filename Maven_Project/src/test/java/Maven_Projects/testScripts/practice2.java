@@ -16,11 +16,17 @@ public class practice2 {
 	}
 	public void Practice434() {
 		Reporter.log("This is method of maven for practice2,Practice40",true);
+		
 	}
 	@Test
 	public void Practice30(){
 		Reporter.log("This is method of maven for practice2,Practice30",true);
 	}
+	@Test
+	public void Practice304(){
+		Reporter.log("This is method of maven for practice2,Practice30",true);
+	}
+	
 	
 
 }
