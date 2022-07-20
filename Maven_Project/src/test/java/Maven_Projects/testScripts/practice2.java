@@ -7,6 +7,7 @@ public class practice2 {
 	@Test
 	public void Practice1000(){
 		String url = System.getProperty("URL");
+		String browser = System.getProperty("BROWSER");
 		System.out.println("This is my browser"+url);
 		Reporter.log("This is method of maven for practice2,Practice10",true);
 	}
